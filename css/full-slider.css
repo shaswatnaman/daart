@@ -13,7 +13,6 @@ body {
 .item,
 .active {
     height: 100%;
-    margin-top: 25px;
 }
 
 .carousel-inner {
