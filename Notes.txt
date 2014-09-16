@@ -3,3 +3,9 @@ http://fontello.com/
 	- search with keyword cart
 	- here Zocial font is used
 	- (http://fontello.com/download/d9a7ba47feb6da8804cbf702c8587d04)
+=======================================
+Slider:
+    Url
+    - http://responsivedesign.is/resources/images/flexslider-responsive-jquery-sliger-plugin
+    Add/Modify Properties
+    - https://github.com/woothemes/FlexSlider/wiki/FlexSlider-Properties
