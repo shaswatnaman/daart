@@ -91,6 +91,21 @@ footer .icon{
     padding: 30px;
 }
 
+.products-font{
+    margin-left:10px;
+}
+
+.prod-list{
+    border:2px solid #FFFFFF;
+    padding-left:10px;
+    color: #000000;
+}
+
+.prod-list:hover{
+    border: 2px solid #ff6500;
+    color: #ff6500;
+}
+
 .products-top{
     font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 13px;
