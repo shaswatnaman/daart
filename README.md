@@ -1,4 +1,6 @@
-Daart
+Daart - A E-commerce Website
 =====
 
-An ecommerce site
+Hey there,
+Daart is an e-commerce website.
+It can be used for any ecommerce company.
